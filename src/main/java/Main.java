@@ -8,3 +8,4 @@ class Main {
         System.out.println("Bob's balance after transfer attempt: " + bobAccount.getBalance());
         System.out.println("Lisa's balance after transfer attempt: " + lisaAccount.getBalance());
     }
+}
